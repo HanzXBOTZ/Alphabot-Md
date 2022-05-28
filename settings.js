@@ -21,18 +21,18 @@ global.autoread = false // auto read pesan / message
 global.botname = "HanzBOTZ(Back)" //namabot kalian
 global.ownername= "Hanz Jawa " //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/UCF0o7qA7XnWxl-9FNY8YfZw" //bebas asal jan hapus
+global.github = "https://HANZBOTZGZ.github.io/" //bebas
+global.email = "tzyhengker518@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6288215110787" // nomor wa kalian
-global.ownernomerr = "+6288215110787" //nmr wa kalian
+global.ownernomer = "6288215110787","6287830949637" // nomor wa kalian
+global.ownernomerr = "+6288215110787","6287830949637" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","6288215110787"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6287830949637","6288215110787"] //ganti agar fitur owner bisa di gunakan
 global.packname = 'Hanz Tamvan' //sticker wm ubah
-global.author = 'Di Buat Oleh Saya sendiri' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh Hanz OFC' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
